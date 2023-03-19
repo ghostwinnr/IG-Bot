@@ -6,8 +6,8 @@ import credentials
 # Create our class
 class InstagramBot:
 	def __init__(self, username, password):
-		self.username = 'baba.yaga_0'	# IG Username
-		self.password = 'Pa55w0rd'	# IG Password
+		self.username = 'gshelbyyy4'	# IG Username
+		self.password = 'Pa55w0rssf5567fgsdgasd'	# IG Password
 		self.bot = webdriver.Firefox(executable_path = '/usr/bin/geckodriver')	# Path of Geckodriver the Firefox WebDriver
 
 	# Function will log us in to Instagram
